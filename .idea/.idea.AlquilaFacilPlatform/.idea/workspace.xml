@@ -9,11 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50558054-e316-41d5-87fd-0550638efd03" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AlquilaFacilPlatform/.idea/dataSources/e2796e41-4adf-41a2-b6c4-0a94523f9196.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AlquilaFacilPlatform/.idea/dataSources/e2796e41-4adf-41a2-b6c4-0a94523f9196.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AlquilaFacilPlatform/.idea/shelf/Uncommitted_changes_before_Checkout_at_06_06_2024_20_42__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AlquilaFacilPlatform/.idea/shelf/Uncommitted_changes_before_Checkout_at_06_06_2024_20_42__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.AlquilaFacilPlatform/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AlquilaFacilPlatform/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="50558054-e316-41d5-87fd-0550638efd03" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -209,7 +205,7 @@
       <workItem from="1719248656826" duration="6563000" />
       <workItem from="1719336991576" duration="11331000" />
       <workItem from="1719424101017" duration="11907000" />
-      <workItem from="1722576370921" duration="316000" />
+      <workItem from="1722576370921" duration="615000" />
     </task>
     <option name="localTasksCounter" value="30" />
     <servers />
